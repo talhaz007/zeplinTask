@@ -1,0 +1,105 @@
+.banner-container {
+    height: 480px;
+    margin: 68px 0 0;
+    padding: 58px 100px 11px 267px;
+    background-color: #f7f7f7;
+}
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgStyle {
+    height: 403px;
+    width: 242px;
+}
+
+.heading {
+    height: 43px;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+
+.text-wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.topic {
+    height: 28px;
+    margin: 16px 6px 20px 0;
+    font-size: 23px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+
+.author {
+    height: 21px;
+    margin: 0px 30.8px 0 0;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8C92AC;
+}
+
+.icons-wrapper {
+    display: flex;
+    margin-top: 42.5px;
+    padding: 13.5px 0px;
+    border-top: solid 1px #E8E8EA;
+    border-bottom: solid 1px #E8E8EA;
+}
+
+.icons-text {
+    margin: 0px 44px 0px 9.8px;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #3a4649;
+}
+
+.buttons-wrapper {
+    display: flex;
+    margin-top: 34.9px;
+}
+
+.button-style {
+    width: 154px;
+    height: 32px;
+    padding: 7px 16px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: normal;
+    margin-right: 8px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    font-stretch: normal;
+    border: none;
+    font-style: normal;
+    background-color: #8C92AC;
+}
+
+.button-style :hover{
+    background-color: #5d6172;
+}

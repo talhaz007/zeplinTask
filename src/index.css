@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'SFPRODISPLAYREGULAR';
+  src: url('./component/assets/fonts/SFPRODISPLAYREGULAR.OTF');
+}
+
+body {
+  margin: 0;
+  font-family: 'SFPRODISPLAYREGULAR';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'SFPRODISPLAYREGULAR';
+}
